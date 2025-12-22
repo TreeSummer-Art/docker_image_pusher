@@ -2,5 +2,5 @@ openmetadata/db:1.10.14
 docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 openmetadata/server:1.10.14
 openmetadata/ingestion:1.10.14
-alpline:3.19.1
+alpine:3.19.1
 
